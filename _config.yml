@@ -22,8 +22,8 @@ title: Enxadrez
 email: bk.izaki@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog para falarmos sobre xadrez, mostrar conteúdos relacionados entre outras coisas.
-baseurl: "/brian-izaki.github.io/Enxadrez/" # the subpath of your site, e.g. /blog
-url: "https://brian-izaki.github.io/Enxadrez/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Enxadrez/" # the subpath of your site, e.g. /blog
+url: "https://brian-izaki.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  brian-izaki
 
 # Build settings
